@@ -1,0 +1,1 @@
+--config test_scenes/materialball.config --exec ./target/release/main --working-directory ./test_scenes/ --width 2048 --height 2048 --trace-max-depth 25 --samples 300
