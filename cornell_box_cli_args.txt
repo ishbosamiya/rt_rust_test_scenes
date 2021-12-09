@@ -1,0 +1,1 @@
+--config test_scenes/cornell_box.config --exec ./target/release/main --working-directory ./test_scenes/ --width 1024 --height 1024 --trace-max-depth 50 --samples 2000
