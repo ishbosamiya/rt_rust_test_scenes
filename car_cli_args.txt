@@ -1,0 +1,1 @@
+--config test_scenes/car.config --exec ./target/release/main --working-directory ./test_scenes/ --width 1920 --height 1080 --trace-max-depth 50 --samples 5000
